@@ -1,4 +1,19 @@
-# CasoDeUso
-Caso de Uso para a matéria Modelagem de Software Orientado a Objeto
+# Projeto de Modelagem de Software Orientados a Objetos
 
-Aluno: Kenzo Sugai (22.121.005-7)
+## 🛠️ Construído com
+
+* [Star UML](https://staruml.io/)
+
+## 📄 Licença
+
+Este projeto está sob a licença (MIT License) - veja o arquivo [LICENSE.md](https://github.com/guilhermevieirasilvagoncalves/reactNativeProject/blob/main/LICENSE) para detalhes.
+
+## ✒️ Autores
+
+[Guilherme Vieira](https://github.com/guilhermevieirasilvagoncalves)           |  [Kenzo Sugai](https://github.com/Kenzo-Sugai)   |  [João Lucas](https://github.com/Sinedrio)
+:-------------------------:|:-------------------------:|:-------------------------:|
+<img src="https://avatars.githubusercontent.com/u/88863957?v=4" alt="drawing" width="150"/>  |  <img src="https://avatars.githubusercontent.com/u/79611160?v=4" alt="drawing" width="150"/>  | <img src="https://avatars.githubusercontent.com/u/89816696?v=4" alt="drawing" width="150"/> 
+22.121.025-5 | 22.121.005-7 | 22.121.004-0
+
+
+⌨️ com ❤️ por [Guilherme Vieira](https://github.com/guilhermevieirasilvagoncalves) , [Kenzo Sugai](https://github.com/Kenzo-Sugai) e [João Lucas](https://github.com/Sinedrio)
