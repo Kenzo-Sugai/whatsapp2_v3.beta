@@ -1,5 +1,11 @@
 # Projeto de Modelagem de Software Orientados a Objetos
 
+Este repsotitório contém os diagramas do projeto MatchMaker modelados para a matéria CC6522.
+
+## ✅ Diagramas
+- [x] Casos de Uso
+- [x] Diagrama de Classes
+
 ## 🛠️ Construído com
 
 * [Star UML](https://staruml.io/)
