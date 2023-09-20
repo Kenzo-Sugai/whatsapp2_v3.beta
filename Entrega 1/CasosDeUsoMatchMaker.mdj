@@ -465,7 +465,7 @@
 									"font": "Arial;13;0",
 									"left": 467.5,
 									"top": 164.5,
-									"width": 169.65625,
+									"width": 168,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGmy8hbuQxq8="
@@ -664,7 +664,7 @@
 									"font": "Arial;13;0",
 									"left": 511.5,
 									"top": 244.5,
-									"width": 150.1435546875,
+									"width": 149,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGm1Ghb7VN/I="
@@ -1403,7 +1403,7 @@
 									"font": "Arial;13;0",
 									"left": 481.5,
 									"top": 324.5,
-									"width": 160.744140625,
+									"width": 160,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGnC0091zeQE="
@@ -1872,7 +1872,7 @@
 									"font": "Arial;13;0",
 									"left": 504.5,
 									"top": 380.5,
-									"width": 155.20263671875,
+									"width": 154,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGnD1G+CFsrA="
@@ -2341,7 +2341,7 @@
 									"font": "Arial;13;0",
 									"left": 529,
 									"top": 444.5,
-									"width": 119.82080078125,
+									"width": 119,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGnEuVOOyqmM="
@@ -2810,7 +2810,7 @@
 									"font": "Arial;13;0",
 									"left": 480,
 									"top": 500.5,
-									"width": 191.32080078125,
+									"width": 190,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGnHfpe8Zh5M="
@@ -3283,7 +3283,7 @@
 									"font": "Arial;13;0",
 									"left": 521,
 									"top": 556.5,
-									"width": 119.82080078125,
+									"width": 119,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGnJDVfQ4HqU="
@@ -3756,7 +3756,7 @@
 									"font": "Arial;13;0",
 									"left": 497.5,
 									"top": 604.5,
-									"width": 160.9853515625,
+									"width": 160,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGnLhU/m0aKo="
@@ -5374,34 +5374,6 @@
 							"templateParameterCompartment": {
 								"$ref": "AAAAAAGKZ/96idjbO/g="
 							}
-						},
-						{
-							"_type": "UMLTextBoxView",
-							"_id": "AAAAAAGKaAuM1NsdLoo=",
-							"_parent": {
-								"$ref": "AAAAAAGKZ+TkZdR3ONc="
-							},
-							"font": "Arial;20;0",
-							"left": 112,
-							"top": 256,
-							"width": 121,
-							"height": 52,
-							"text": "Visão Proprietário",
-							"horzAlign": 2
-						},
-						{
-							"_type": "UMLTextBoxView",
-							"_id": "AAAAAAGKaAveXtsp1Xo=",
-							"_parent": {
-								"$ref": "AAAAAAGKZ+TkZdR3ONc="
-							},
-							"font": "Arial;20;0",
-							"left": 1104,
-							"top": 176,
-							"width": 105,
-							"height": 52,
-							"text": "Visão Cliente",
-							"horzAlign": 2
 						},
 						{
 							"_type": "UMLClassView",
@@ -8596,7 +8568,8 @@
 							},
 							"name": "quadraAgendada",
 							"stereotype": "Quadra",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -8851,7 +8824,8 @@
 							},
 							"name": "cliente",
 							"stereotype": "Usuario",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -9029,7 +9003,8 @@
 							},
 							"name": "imagem",
 							"stereotype": "list<string>",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9039,7 +9014,8 @@
 							},
 							"name": "localizacao",
 							"stereotype": "string",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9049,7 +9025,8 @@
 							},
 							"name": "preco",
 							"stereotype": "double",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9059,7 +9036,8 @@
 							},
 							"name": "proprietario",
 							"stereotype": "usuario",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -9117,7 +9095,8 @@
 							},
 							"name": "username",
 							"stereotype": "string",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9127,7 +9106,8 @@
 							},
 							"name": "senha",
 							"stereotype": "string",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9137,7 +9117,8 @@
 							},
 							"name": "e-mail",
 							"stereotype": "string",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9147,7 +9128,8 @@
 							},
 							"name": "cpf_cnpj",
 							"stereotype": "string",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -9365,7 +9347,8 @@
 							},
 							"name": "horario",
 							"stereotype": "time",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9375,7 +9358,8 @@
 							},
 							"name": "data",
 							"stereotype": "date",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9385,7 +9369,8 @@
 							},
 							"name": "cliente",
 							"stereotype": "Usuario",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
@@ -9434,7 +9419,8 @@
 							},
 							"name": "nome",
 							"stereotype": "string",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9444,7 +9430,8 @@
 							},
 							"name": "descricao",
 							"stereotype": "string",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -9454,7 +9441,8 @@
 							},
 							"name": "preco",
 							"stereotype": "double",
-							"visibility": "private"
+							"visibility": "private",
+							"type": ""
 						}
 					],
 					"operations": [
