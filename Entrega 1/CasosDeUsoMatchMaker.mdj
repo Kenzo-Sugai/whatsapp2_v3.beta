@@ -465,7 +465,7 @@
 									"font": "Arial;13;0",
 									"left": 467.5,
 									"top": 164.5,
-									"width": 168,
+									"width": 169.65625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGmy8hbuQxq8="
@@ -664,7 +664,7 @@
 									"font": "Arial;13;0",
 									"left": 511.5,
 									"top": 244.5,
-									"width": 149,
+									"width": 150.1435546875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGm1Ghb7VN/I="
@@ -1403,7 +1403,7 @@
 									"font": "Arial;13;0",
 									"left": 481.5,
 									"top": 324.5,
-									"width": 160,
+									"width": 160.744140625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGnC0091zeQE="
@@ -1872,7 +1872,7 @@
 									"font": "Arial;13;0",
 									"left": 504.5,
 									"top": 380.5,
-									"width": 154,
+									"width": 155.20263671875,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGnD1G+CFsrA="
@@ -2341,7 +2341,7 @@
 									"font": "Arial;13;0",
 									"left": 529,
 									"top": 444.5,
-									"width": 119,
+									"width": 119.82080078125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGnEuVOOyqmM="
@@ -2810,7 +2810,7 @@
 									"font": "Arial;13;0",
 									"left": 480,
 									"top": 500.5,
-									"width": 190,
+									"width": 191.32080078125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGnHfpe8Zh5M="
@@ -3283,7 +3283,7 @@
 									"font": "Arial;13;0",
 									"left": 521,
 									"top": 556.5,
-									"width": 119,
+									"width": 119.82080078125,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGnJDVfQ4HqU="
@@ -3756,7 +3756,7 @@
 									"font": "Arial;13;0",
 									"left": 497.5,
 									"top": 604.5,
-									"width": 160,
+									"width": 160.9853515625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGKGnLhU/m0aKo="
