@@ -5,7 +5,7 @@ Este repsotitório contém os diagramas do projeto MatchMaker modelados para a m
 ## ✅ Diagramas
 - [x] Casos de Uso
 - [x] Diagrama de Classes
-- [ ] Diagrama de Sequência
+- [x] Diagrama de Sequência
 
 ## 🛠️ Construído com
 
