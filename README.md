@@ -7,7 +7,7 @@ Este repsotitório contém os diagramas do projeto MatchMaker modelados para a m
 - [x] Diagrama de Classes
 - [x] Diagrama de Sequência
 - [ ] Diagrama de Estado
-- [ ] Diagrama de Atividades
+- [x] Diagrama de Atividades
 
 ## 🛠️ Construído com
 
