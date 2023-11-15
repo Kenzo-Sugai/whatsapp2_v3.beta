@@ -8,6 +8,8 @@ Este repsotitório contém os diagramas do projeto MatchMaker modelados para a m
 - [x] Diagrama de Sequência
 - [ ] Diagrama de Estado
 - [x] Diagrama de Atividades
+- [x] Diagrama de Componentes
+- [x] Diagrama de Implantação
 
 ## 🛠️ Construído com
 
