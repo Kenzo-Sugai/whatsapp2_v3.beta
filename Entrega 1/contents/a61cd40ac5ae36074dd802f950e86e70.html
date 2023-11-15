@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Operador</title>
+    <title>Classe</title>
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic|Source+Code+Pro:300,400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="../assets/css/bootstrap.css">
 <link rel="stylesheet" href="../assets/css/jquery.bonsai.css">
@@ -19,7 +19,7 @@
 
       <!-- Name Title -->
 
-      <h1>Operador</h1>
+      <h1>Classe</h1>
 
       <!-- Type and Stereotype -->
 
@@ -50,7 +50,7 @@
           <span class="label label-info"><a href='3eb0d97f6143d9a07a384e8a03249736.html'><span class='node-icon staruml-icon icon-UMLInteraction'></span>Interaction1</a></span>
         
           <span>::</span>
-          <span class="label label-info"><a href='a61cd40ac5ae36074dd802f950e86e70.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>Operador</a></span>
+          <span class="label label-info"><a href='a61cd40ac5ae36074dd802f950e86e70.html'><span class='node-icon staruml-icon icon-UMLLifeline'></span>Classe: GerenciarAgendamento</a></span>
         
       </section>
 
@@ -219,7 +219,7 @@
     
     <tr>
         <td>name</td>
-        <td>Operador</td>
+        <td>Classe</td>
     </tr>
     
     
@@ -309,17 +309,21 @@
     <h3>Relationships</h3>
     <ul class="nav nav-list">
         
-        <li><a href='a6f3976f3527c82851b25ea8780ee24d.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Cancelar Agendamento (Cliente→Operador)</a></li>
+        <li><a href='a6f3976f3527c82851b25ea8780ee24d.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Cancelar Agendamento (Ator→Classe)</a></li>
         
-        <li><a href='4262163aac5c9b02720219077d98a620.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Gerenciar Agendamento (Operador→Servidor)</a></li>
+        <li><a href='4262163aac5c9b02720219077d98a620.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Gerenciar Agendamento (Classe→Classe)</a></li>
         
-        <li><a href='b1952b84af5cee61727639cfecbcb810.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>dados cliente (Servidor→Operador)</a></li>
+        <li><a href='b1952b84af5cee61727639cfecbcb810.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>retorna todos os agendamentos atuais (Classe→Classe)</a></li>
         
-        <li><a href='5b3e9359f63dc77813e8b828be313602.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>cancelarAgendamento (Operador→Servidor)</a></li>
+        <li><a href='50f1e7f14741b5241e5079c0b27aed65.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>retornar agendamentos em tela (Classe→Ator)</a></li>
         
-        <li><a href='077a9dda733ca2c3fbf5e2595315a891.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Confirmação Cancelamento (Servidor→Operador)</a></li>
+        <li><a href='db985122751e77e47f938f2e7d6d8f33.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>seleciona agendamento para cancelar (Ator→Classe)</a></li>
         
-        <li><a href='c0f3478ebf7c253889c1c175cd61167b.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Confirmação Cancelamento (Operador→Cliente)</a></li>
+        <li><a href='5b3e9359f63dc77813e8b828be313602.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>envia requisição de cancelamento (Classe→Classe)</a></li>
+        
+        <li><a href='077a9dda733ca2c3fbf5e2595315a891.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Confirmação Cancelamento (Classe→Classe)</a></li>
+        
+        <li><a href='c0f3478ebf7c253889c1c175cd61167b.html'><span class='node-icon staruml-icon icon-UMLMessage'></span>Confirmação Cancelamento (Classe→Ator)</a></li>
         
     </ul>
 </section>
